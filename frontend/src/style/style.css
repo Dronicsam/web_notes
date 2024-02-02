@@ -1,0 +1,10 @@
+.flexed {
+    list-style: none;
+    overflow:hidden;
+    overflow-y:scroll;
+}
+
+.list_el {
+    width: fit-content;
+    margin-right: 10rem;
+}

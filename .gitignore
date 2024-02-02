@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.env
+.parcel-cache
+dist
+hooks
+info
+node_modules
+objects
+refs
+venv
+HEAD
+/backend/database.db
+/backend/__pycache__

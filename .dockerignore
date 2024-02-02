@@ -1,0 +1,5 @@
+__pacache__/
+
+*.env
+*.env.*
+env.*

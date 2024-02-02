@@ -1,0 +1,48 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/open-sans": "^5.0.22",
+    "@fontsource/raleway": "^5.0.16",
+    "axios": "^1.6.7",
+    "bcryptjs": "^2.4.3",
+    "framer-motion": "^11.0.3",
+    "google-libphonenumber": "^3.2.34",
+    "parcel": "^2.11.0",
+    "qs": "^6.11.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.49.3",
+    "react-international-phone": "^4.2.1",
+    "react-router-dom": "^6.21.3",
+    "uuid": "^9.0.1"
+  },
+  "type": "module",
+  "source": "index.html",
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "events": "^3.3.0",
+    "os-browserify": "^0.3.0",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10",
+    "querystring-es3": "^0.2.1",
+    "stream-browserify": "^3.0.0",
+    "url": "^0.11.3",
+    "util": "^0.12.5"
+  },
+  "description": ""
+}
